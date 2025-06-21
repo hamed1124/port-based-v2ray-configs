@@ -1,0 +1,5 @@
+trojan://1b4c16925f934c57b954a9f0f23dea33@42.240.152.238:8842?allowInsecure=0&sni=brwx.spvpv.com#_%E4%B8%AD%E5%9B%BD
+trojan://1b4c16925f934c57b954a9f0f23dea33@42.240.152.238:8842?security=tls&sni=brwx.spvpv.com#%F0%9F%87%A8%F0%9F%87%B3CN-42.240.152.238-1052
+trojan://1b4c16925f934c57b954a9f0f23dea33@42.240.152.238:8842?allowInsecure=1&sni=brwx.spvpv.com#%F0%9F%87%A8%F0%9F%87%B3%20%E5%B9%BF%E4%B8%9C%E7%9C%81%E5%B9%BF%E5%B7%9E%E5%B8%82%20UCloud
+trojan://1b4c16925f934c57b954a9f0f23dea33@42.240.152.238:8842?sni=brwx.spvpv.com&allowInsecure=0#🔒 TR-TCP-NA 🇨🇳 CN-42.240.152.238:8842
+trojan://1b4c16925f934c57b954a9f0f23dea33@42.240.152.238:8842?security=tls&sni=brwx.spvpv.com#%F0%9F%87%A8%F0%9F%87%B3CN-42.240.152.238-0207

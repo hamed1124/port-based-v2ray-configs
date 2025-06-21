@@ -1,2 +1,3 @@
+trojan://ttfang@158.178.243.152:61731?sni=ttfang.fange.me#🔒 TR-TCP-NA 🇸🇬 SG-158.178.243.152:61731
 trojan://ttfang@158.178.236.14:61731?sni=ttfang.fange.me&allowInsecure=0#🔒 TR-TCP-NA 🇸🇬 SG-158.178.236.14:61731
-trojan://ttfang@158.178.243.152:61731?sni=ttfang.fange.me&allowInsecure=0#🔒 TR-TCP-NA 🇸🇬 SG-158.178.243.152:61731
+trojan://ttfang@158.178.243.152:61731?sni=ttfang.fange.me#%E6%9C%AA%E7%9F%A5122

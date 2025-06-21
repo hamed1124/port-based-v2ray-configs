@@ -1,1 +1,2 @@
 vless://351f0133-11f4-4401-b082-371cc8d24f71@185.4.31.178:23939?security=none&type=ws&path=%2F#🔒 VL-WS-NONE 🇮🇷 IR-185.4.31.178:23939
+vless://351f0133-11f4-4401-b082-371cc8d24f71@85.198.12.121:23939?security=none&type=ws&path=%2F#🔒 VL-WS-NONE 🇮🇷 IR-85.198.12.121:23939

@@ -1,0 +1,2 @@
+vless://6c5ce879-4965-4808-92bd-8ad3489d98c9@193.24.103.153:18007?type=tcp&host=soft98.ir&headerType=http#🔒 VL-TCP-NA 🇮🇷 IR-193.24.103.153:18007
+vless://6c5ce879-4965-4808-92bd-8ad3489d98c9@193.24.103.154:18007?type=tcp&host=soft98.ir&headerType=http#🔒 VL-TCP-NA 🇮🇷 IR-193.24.103.154:18007

@@ -1,0 +1,1 @@
+vless://2b72d6fd-0ffe-418f-cdb2-a98aa0bab75f@77.239.96.36:35506?security=none&type=grpc&serviceName=@REMIX_BY_SAEED#🔒 VL-GRPC-NONE 🇫🇷 FR-77.239.96.36:35506

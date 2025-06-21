@@ -1,2 +1,1 @@
 vless://d7e8c26c-09ee-47a5-b502-945ad3c9c2c0@37.32.4.81:8999?security=none&type=tcp#🔒 VL-TCP-NONE 🇮🇷 IR-37.32.4.81:8999
-vless://9c743c21-4ae8-409a-ab2f-5da85ea8af31@37.32.4.81:8999?security=none&type=tcp#🔒 VL-TCP-NONE 🇮🇷 IR-37.32.4.81:8999

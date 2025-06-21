@@ -1,0 +1,1 @@
+vless://1364334f-7361-4ebc-86a1-ac06e918631f@188.75.79.105:8002?security=none&type=tcp&host=divarcdn.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-188.75.79.105:8002

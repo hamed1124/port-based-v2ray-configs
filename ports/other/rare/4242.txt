@@ -1,1 +1,4 @@
-vless://0a1d174c-06a8-4f22-9558-bbbf86d5df92@1.1.1.1:4242?security=none&type=tcp&host=p30afzar.com&headerType=http#🔒 VL-TCP-NONE 🏴‍☠️ NA-1.1.1.1:4242
+vless://f11b459a-b505-4530-a883-59d5b8c51b64@1.1.1.1:4242?security=none&type=tcp&host=p30afzar.com&headerType=http#🔒 VL-TCP-NONE 🏴‍☠️ NA-1.1.1.1:4242
+vless://f11b459a-b505-4530-a883-59d5b8c51b64@45.94.213.91:4242?security=none&type=tcp&host=p30afzar.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-45.94.213.91:4242
+vless://f11b459a-b505-4530-a883-59d5b8c51b64@5.202.11.98:4242?security=none&type=tcp&host=p30afzar.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-5.202.11.98:4242
+vless://f11b459a-b505-4530-a883-59d5b8c51b64@45.94.213.172:4242?security=none&type=tcp&host=p30afzar.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-45.94.213.172:4242

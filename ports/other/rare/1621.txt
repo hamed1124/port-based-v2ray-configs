@@ -1,2 +1,1 @@
-vless://738fbb8d-bd2d-402a-b7bc-e63ad84fb107@188.245.195.221:1621?security=reality&flow=xtls-rprx-vision&sni=wwww.refersion.com&type=tcp&fp=chrome&pbk=uGYj7gkQdNaabDVQZdbHeSVizGPrzj8YD5jdYm7stG0&sid=3a622700e73c6642#🔒 VL-TCP-RLT 🇩🇪 DE-188.245.195.221:1621
 vless://c862d92c-99a1-46d4-914d-f19af544416e@188.245.195.221:1621?security=reality&flow=xtls-rprx-vision&sni=wwww.refersion.com&type=tcp&fp=chrome&pbk=uGYj7gkQdNaabDVQZdbHeSVizGPrzj8YD5jdYm7stG0&sid=3a622700e73c6642#🔒 VL-TCP-RLT 🇩🇪 DE-188.245.195.221:1621

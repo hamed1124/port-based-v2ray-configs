@@ -1,2 +1,2 @@
-vless://63601f9f-7c67-4952-919a-1ef802b5a7ec@141.147.144.15:13357?sni=steep.skyfigure.top&type=ws&host=steep.skyfigure.top&path=/Telegram🇨🇳&allowInsecure=1#🔒 VL-WS-NA 🇯🇵 JP-141.147.144.15:13357
 trojan://ttfang@141.147.144.15:13357?sni=ttfang.fange.me&allowInsecure=0#🔒 TR-TCP-NA 🇯🇵 JP-141.147.144.15:13357
+vless://63601f9f-7c67-4952-919a-1ef802b5a7ec@141.147.144.15:13357?sni=steep.skyfigure.top&type=ws&host=steep.skyfigure.top&path=/Telegram🇨🇳&allowInsecure=1#🔒 VL-WS-NA 🇯🇵 JP-141.147.144.15:13357

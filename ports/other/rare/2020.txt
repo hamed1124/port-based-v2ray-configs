@@ -1,3 +1,3 @@
-vless://74b56295-1845-4b22-b9a7-85b733218451@165.22.235.114:2020?security=tls&sni=etc.mesa.ip-ddns.com&type=ws&host=etc.mesa.ip-ddns.com&path=%2F%3Fed%3D2560&fp=random&alpn=h3#🔒 VL-WS-TLS 🇨🇦 CA-165.22.235.114:2020
-vless://73bf4bac-98cf-4423-b728-3cc8a0e56424@139.180.146.164:2020?security=reality&flow=xtls-rprx-vision&sni=ea.com&type=tcp&fp=chrome&pbk=YH_SRHZR1KpI5H1qwcqwp3_8lYSWWMZYWn_FStgKihc&sid=05fb89d5#🔒 VL-TCP-RLT 🇸🇬 SG-139.180.146.164:2020
+vless://f1991920-fedc-4092-9d3a-47764518d220@37.202.233.173:2020?type=tcp&host=P30afzar.com&headerType=http#🔒 VL-TCP-NA 🇮🇷 IR-37.202.233.173:2020
 vless://61a291cc-259a-4ca1-b788-503b21fa0bf0@185.83.182.8:2020?security=none&type=tcp&host=Cafebazaar.ir&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-185.83.182.8:2020
+vless://74b56295-1845-4b22-b9a7-85b733218451@165.22.235.114:2020?security=tls&sni=etc.mesa.ip-ddns.com&type=ws&host=etc.mesa.ip-ddns.com&path=%2F%3Fed%3D2560&fp=random&alpn=h3#🔒 VL-WS-TLS 🇨🇦 CA-165.22.235.114:2020

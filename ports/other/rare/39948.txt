@@ -1,3 +1,3 @@
+vless://2558c819-1363-4859-8fb9-f8cb104d49d2@95.211.27.188:39948?security=none&type=tcp&host=divarcdn.com&headerType=http#🔒 VL-TCP-NONE 🇳🇱 NL-95.211.27.188:39948
 vless://2558c819-1363-4859-8fb9-f8cb104d49d2@176.223.66.8:39948?allowInsecure=0&sni=divarcdn.com&fp=chrome#%F0%9F%8C%802-TR%20%7C%20%201.2MB/s%7C0%25%7CNetflix%7CDi...
 vless://2558c819-1363-4859-8fb9-f8cb104d49d2@176.223.66.8:39948?sni=divarcdn.com&fp=chrome&allowInsecure=0#🔒 VL-TCP-NA 🇹🇷 TR-176.223.66.8:39948
-vless://2558c819-1363-4859-8fb9-f8cb104d49d2@95.211.27.188:39948?security=none&type=tcp&host=divarcdn.com&headerType=http#🔒 VL-TCP-NONE 🇳🇱 NL-95.211.27.188:39948

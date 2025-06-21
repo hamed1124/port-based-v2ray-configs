@@ -1,0 +1,2 @@
+vless://793d47a9-6fd3-40f9-aa4c-90bba00be6c1@185.232.154.106:37605?type=tcp&host=telewebion.com&headerType=http#🔒 VL-TCP-NA 🇮🇷 IR-185.232.154.106:37605
+vless://793d47a9-6fd3-40f9-aa4c-90bba00be6c1@185.232.152.211:37605?type=tcp&host=telewebion.com&headerType=http#🔒 VL-TCP-NA 🇮🇷 IR-185.232.152.211:37605

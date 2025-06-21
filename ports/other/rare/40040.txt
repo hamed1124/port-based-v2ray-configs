@@ -1,0 +1,1 @@
+vless://94f271b0-73ae-4516-8b43-7e84f18e4639@91.223.61.193:40040?security=none&type=tcp&fp=random#🔒 VL-TCP-NONE 🇮🇷 IR-91.223.61.193:40040

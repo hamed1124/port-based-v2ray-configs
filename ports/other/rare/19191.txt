@@ -1,2 +1,1 @@
-trojan://ttfang@168.138.184.142:19191?sni=ttfang.fange.me#%E6%9C%AA%E7%9F%A581
 trojan://ttfang@168.138.184.142:19191?sni=ttfang.fange.me#🔒 TR-TCP-NA 🇸🇬 SG-168.138.184.142:19191

@@ -1,0 +1,1 @@
+vless://11bde743-43e7-4d8c-a800-2bdace65aff0@193.24.103.252:2334?security=tls&sni=speedtest.net&type=grpc#🔒 VL-GRPC-TLS 🇮🇷 IR-193.24.103.252:2334

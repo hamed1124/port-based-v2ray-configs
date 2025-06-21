@@ -1,2 +1,3 @@
 vless://a523d04c-97c2-408e-9961-d2b3ade6af7c@77.110.127.245:1370?security=reality&sni=sourceforge.net&type=grpc&serviceName=fdvsdv&fp=chrome&pbk=JNcCRy0bfOEzzyqh1foTuuG9T8IvwiO8ApJu5FhVERs&sid=2665af94c7b25f90#🔒 VL-GRPC-RLT 🇩🇪 DE-77.110.127.245:1370
+vless://92fc3c1b-c409-4610-b1a6-9a8ef4287891@10.10.34.36:1370?security=reality&sni=refersion.com&type=tcp&fp=chrome&pbk=_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw&sid=e1afb93bfe75a34b#🔒 VL-TCP-RLT 🏴‍☠️ NA-10.10.34.36:1370
 vless://92fc3c1b-c409-4610-b1a6-9a8ef4287891@51.83.249.166:1370?security=reality&sni=refersion.com&type=tcp&fp=chrome&pbk=_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw&sid=e1afb93bfe75a34b#🔒 VL-TCP-RLT 🇵🇱 PL-51.83.249.166:1370

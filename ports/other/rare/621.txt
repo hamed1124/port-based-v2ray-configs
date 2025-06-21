@@ -1,0 +1,2 @@
+vless://2f7c37b9-6b0e-010c-20b7-b061c60181d7@81.29.255.187:621?security=none&type=ws&host=telewebion.com,user.telewebion.com,plus.telewebion.com,api.telewebion.com#🔒 VL-WS-NONE 🇮🇷 IR-81.29.255.187:621
+vless://2f7c37b9-6b0e-010c-20b7-b061c60181d7@94.139.183.195:621?security=none&type=ws&host=telewebion.com%2Cuser.telewebion.com%2Cplus.telewebion.com%2Capi.telewebion.com&path=%2Fws%3Fed%3D2048#🔒 VL-WS-NONE 🇮🇷 IR-94.139.183.195:621

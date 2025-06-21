@@ -1,0 +1,1 @@
+vless://94f271b0-73ae-4516-8b43-7e84f18e4639@80.244.7.251:10050?security=none&type=tcp&fp=random#🔒 VL-TCP-NONE 🇮🇷 IR-80.244.7.251:10050

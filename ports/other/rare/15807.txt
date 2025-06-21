@@ -1,0 +1,1 @@
+vless://2e8d0213-38fc-4742-8fe0-33f7ec6c6754@5.202.12.80:15807?security=none&type=tcp&host=ua.yektanet.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-5.202.12.80:15807

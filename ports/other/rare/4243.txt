@@ -1,0 +1,1 @@
+vless://bdc0b5df-b3c5-40d5-9664-c33a4bef8993@5.202.11.109:4243?security=none&type=tcp&host=p30afzar.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-5.202.11.109:4243

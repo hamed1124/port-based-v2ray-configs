@@ -1,1 +1,2 @@
-trojan://51362ab6-b5e6-11ea-ad28-f23c913c8d2b@01b4a89f-sxwn40-t4nd8s-wujn.cm5.cnkuaishou.com:21233?security=tls&sni=01b4a89f-sxwn40-t4nd8s-wujn.cm5.cnkuaishou.com#%F0%9F%87%A8%F0%9F%87%B3CN-183.240.180.16-0296
+trojan://bcc58e88-e147-11ec-b286-f23c91cfbbc9@83242d49-sy41s0-szh3gf-ggww.cm5.cnkuaishou.com:21233?allowInsecure=0&sni=83242d49-sy41s0-szh3gf-ggww.cm5.cnkuaishou.com#_%E4%B8%AD%E5%9B%BD
+trojan://bcc58e88-e147-11ec-b286-f23c91cfbbc9@183.240.180.16:21233?sni=83242d49-sy41s0-szh3gf-ggww.cm5.cnkuaishou.com&allowInsecure=0#🔒 TR-TCP-NA 🇨🇳 CN-183.240.180.16:21233

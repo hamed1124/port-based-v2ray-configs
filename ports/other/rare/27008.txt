@@ -1,0 +1,1 @@
+vless://e43777e2-d6bd-4798-a05d-aa65bf59a08f@85.192.38.45:27008?security=none&type=tcp&host=box.ponisha.ir&headerType=http#🔒 VL-TCP-NONE 🇬🇧 GB-85.192.38.45:27008

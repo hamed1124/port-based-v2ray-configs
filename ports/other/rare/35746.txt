@@ -1,0 +1,1 @@
+vless://9a1f21c7-85ba-4b9c-9f17-b7466022f7ee@195.158.230.124:35746?security=none&type=tcp&host=fast.com%2C%20cloudflare.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-195.158.230.124:35746

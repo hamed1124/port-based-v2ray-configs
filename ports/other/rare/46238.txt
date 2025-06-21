@@ -1,2 +1,1 @@
 trojan://Aimer@185.201.226.117:46238?sni=epccc.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🇺🇸 US-185.201.226.117:46238
-trojan://Aimer@185.201.226.117:46238?sni=epccc.ambercc.filegear-sg.me#US7

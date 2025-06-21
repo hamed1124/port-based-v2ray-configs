@@ -1,2 +1,2 @@
-vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@141.11.86.94:18333?sni=edmq.aimercc.filegear-sg.me&type=ws&host=edmq.aimercc.filegear-sg.me&allowInsecure=1#🔒 VL-WS-NA 🇹🇼 TW-141.11.86.94:18333
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaM1lTMEt4Qjh1NWpncDczNmU4MzR5M0RhWHdTT1l6eGxGREZxcE5DYWFsREE5Q0VJUmNlWk9DQW5SMnlUUw==@154.17.2.31:18333#%F0%9F%87%BA%F0%9F%87%B8US-154.17.2.31-1121
+vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@141.11.86.94:18333?sni=edmq.aimercc.filegear-sg.me&type=ws&host=edmq.aimercc.filegear-sg.me&allowInsecure=1#🔒 VL-WS-NA 🇹🇼 TW-141.11.86.94:18333

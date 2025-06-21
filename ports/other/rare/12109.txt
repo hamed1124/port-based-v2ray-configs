@@ -1,2 +1,2 @@
-trojan://Aimer@14.32.12.235:12109?sni=epccf.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🇰🇷 KR-14.32.12.235:12109
 vmess://eyJhZGQiOiAiMjEyLjIzLjIxNC4xNjUiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogIjUyOWRjYTY4LWRiMzMtNDY3ZS04OTk1LTRhODRmNTU2YWFkYyIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiMTIxMDkiLCAicHMiOiAiXHVkODNkXHVkZDEyIFZNLVRDUC1OQSBcdWQ4M2NcdWRkZWVcdWQ4M2NcdWRkZjcgSVItMjEyLjIzLjIxNC4xNjU6MTIxMDkiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIifQ==
+trojan://Aimer@14.32.12.235:12109?sni=epccf.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🇰🇷 KR-14.32.12.235:12109

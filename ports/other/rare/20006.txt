@@ -1,2 +1,2 @@
-trojan://f75b2c90-34da-4b87-90ce-5c7874573f12@157.254.38.210:20006?security=tls&sni=th.catxstar.com&type=tcp&fp=chrome#🔒 TR-TCP-TLS 🇺🇸 US-157.254.38.210:20006
 ss://YWVzLTI1Ni1nY206WFFJNDI2QVJYUExCNkNGSw==@31.40.212.221:20006#🔒 SS-TCP-NA 🇦🇷 AR-31.40.212.221:20006
+trojan://f75b2c90-34da-4b87-90ce-5c7874573f12@157.254.38.210:20006?security=tls&sni=th.catxstar.com&type=tcp&fp=chrome#🔒 TR-TCP-TLS 🇺🇸 US-157.254.38.210:20006

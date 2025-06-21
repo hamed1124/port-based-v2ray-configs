@@ -1,1 +1,2 @@
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@47.242.145.136:8001?security=tls&sni=edccy.ambercc.filegear-sg.me&type=ws&host=edccy.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#🔒 VL-WS-TLS 🇭🇰 HK-47.242.145.136:8001
+vless://1364334f-7361-4ebc-86a1-ac06e918631f@151.234.162.33:8001?security=none&type=tcp&host=cafebazaar.ir&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-151.234.162.33:8001

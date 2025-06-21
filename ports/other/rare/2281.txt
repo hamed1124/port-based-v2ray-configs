@@ -1,0 +1,2 @@
+vless://01b8c498-d50c-453b-9cd8-bc5fd9496362@31.41.35.174:2281?security=none&type=tcp&host=www.speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-31.41.35.174:2281
+vless://01b8c498-d50c-453b-9cd8-bc5fd9496362@195.182.38.245:2281?security=none&type=tcp&host=www.speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-195.182.38.245:2281

@@ -1,2 +1,2 @@
-trojan://Aimer@59.7.203.104:10393?sni=epccr.ambercc.filegear-sg.me&allowInsecure=0#🔒 TR-TCP-NA 🇰🇷 KR-59.7.203.104:10393
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@59.7.203.104:10393?security=tls&sni=edccy.aimercc.filegear-sg.me&type=ws&host=edccy.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#🔒 VL-WS-TLS 🇰🇷 KR-59.7.203.104:10393
+trojan://Aimer@59.7.203.104:10393?sni=epccr.ambercc.filegear-sg.me&allowInsecure=0#🔒 TR-TCP-NA 🇰🇷 KR-59.7.203.104:10393

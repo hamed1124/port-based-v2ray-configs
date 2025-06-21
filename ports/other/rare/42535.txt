@@ -1,0 +1,1 @@
+vless://38e6d66d-89b4-4a1a-b0fc-b8e8f2b510d9@5.159.49.45:42535?security=none&type=tcp&host=soft98.ir&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-5.159.49.45:42535

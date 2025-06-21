@@ -1,0 +1,1 @@
+vless://b77bbf9b-96f3-4417-9ba3-1aabd14aa033@2.189.243.132:2021?security=none&type=tcp&host=reata.ir&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-2.189.243.132:2021

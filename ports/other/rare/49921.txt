@@ -1,1 +1,4 @@
+trojan://a25ed269-105b-4f15-bee2-bc2785d38912@wb.kaiqsz.com:49921?allowInsecure=1&sni=wb.kaiqsz.com#CN_speednode_0018
 trojan://a25ed269-105b-4f15-bee2-bc2785d38912@wb.kaiqsz.com:49921?security=tls&sni=wb.kaiqsz.com#%F0%9F%87%A8%F0%9F%87%B3CN-120.198.71.173-1045
+trojan://a25ed269-105b-4f15-bee2-bc2785d38912@wb.kaiqsz.com:49921?allowInsecure=0&sni=wb.kaiqsz.com#_%E4%B8%AD%E5%9B%BD
+trojan://a25ed269-105b-4f15-bee2-bc2785d38912@120.198.71.173:49921?sni=wb.kaiqsz.com&allowInsecure=0#🔒 TR-TCP-NA 🇨🇳 CN-120.198.71.173:49921

@@ -1,7 +1,5 @@
-trojan://FpQhGpIr@36.151.251.62:38632?security=tls#%F0%9F%87%A8%F0%9F%87%B3CN-36.151.251.62-1198
-trojan://HrTsLJvh@36.151.251.62:38632?security=tls#%F0%9F%87%A8%F0%9F%87%B3CN-36.151.251.62-0641
-trojan://FpQhGpIr@36.151.251.62:38632?allowInsecure=1&sni=36.151.251.62#15%7CCN_speednode_0026
-trojan://HrTsLJvh@36.151.251.62:38632?security=tls&sni=36.151.251.62#%F0%9F%87%A8%F0%9F%87%B3CN-36.151.251.62-0844
-trojan://HrTsLJvh@36.151.251.62:38632?allowInsecure=1&sni=36.151.251.62#15%7CCN_speednode_0027
-trojan://FpQhGpIr@36.151.251.62:38632?allowInsecure=1#15%7CCN_speednode_0029
-trojan://HrTsLJvh@36.151.251.62:38632?allowInsecure=1#15%7CCN_speednode_0028
+trojan://HrTsLJvh@36.151.251.62:38632?allowInsecure=1#%F0%9F%87%A8%F0%9F%87%B3%20%E6%B1%9F%E8%8B%8F%E7%9C%81%20%E7%A7%BB%E5%8A%A8
+trojan://FpQhGpIr@36.151.251.62:38632?allowInsecure=0&sni=36.151.251.62#_%E4%B8%AD%E5%9B%BD
+trojan://HrTsLJvh@36.151.251.62:38632?allowInsecure=1#🔒 TR-TCP-NA 🇨🇳 CN-36.151.251.62:38632
+trojan://HrTsLJvh@36.151.251.62:38632?security=tls#%F0%9F%87%A8%F0%9F%87%B3CN-36.151.251.62-0745
+trojan://HrTsLJvh@36.151.251.62:38632?allowInsecure=0#_%E4%B8%AD%E5%9B%BD

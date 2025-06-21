@@ -1,2 +1,2 @@
-vless://5a186a86-1d2c-43b1-85d9-1ad3f60f6be7@23.90.188.126:37823?security=none&type=tcp&host=divarcdn.com&headerType=http#🔒 VL-TCP-NONE 🇪🇸 ES-23.90.188.126:37823
+vless://5a186a86-1d2c-43b1-85d9-1ad3f60f6be7@23.90.188.126:37823?type=tcp&host=divarcdn.com&headerType=http#🔒 VL-TCP-NA 🇪🇸 ES-23.90.188.126:37823
 vless://5a186a86-1d2c-43b1-85d9-1ad3f60f6be7@23.90.188.66:37823?security=none&type=tcp&host=divarcdn.com&headerType=http#🔒 VL-TCP-NONE 🇪🇸 ES-23.90.188.66:37823

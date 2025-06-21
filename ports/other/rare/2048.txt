@@ -1,2 +1,1 @@
-vless://dae27cea-5d19-440d-8568-82b33f6ad047@31.41.35.191:2048?security=none&type=tcp&host=soft98.ir&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-31.41.35.191:2048
-vless://b5059dd2-1f60-4959-a603-76ef40943a64@31.41.35.191:2048?security=none&type=tcp&host=soft98.ir&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-31.41.35.191:2048
+vless://0404ff8a-573e-4054-acc4-c6a2901c6ab5@31.41.35.191:2048?security=none&type=tcp&host=soft98.ir&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-31.41.35.191:2048

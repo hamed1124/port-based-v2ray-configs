@@ -1,1 +1,1 @@
-vless://db1de21d-fa2b-4706-bb1f-e37efa4d7684@88.218.16.19:26817?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-88.218.16.19:26817
+vless://db1de21d-fa2b-4706-bb1f-e37efa4d7684@88.218.16.19:26817?type=tcp&headerType=http#🔒 VL-TCP-NA 🇮🇷 IR-88.218.16.19:26817

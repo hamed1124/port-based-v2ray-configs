@@ -1,2 +1,2 @@
-vless://6d288402-6ef9-4092-9d52-c528690fb693@134.122.100.178:10108?security=tls&sni=pMLMyAZD-6S6.paGeS.DEV&type=ws&host=pmlmyazd-6s6.pages.dev&path=%2FNu8bHy0jlYQqvxns%2FMTIxLjU0LjMwLjE1OQ%3D%3D%3Fed%3D2560&fp=randomized&alpn=http%2F1.1#🔒 VL-WS-TLS 🇬🇧 GB-134.122.100.178:10108
 trojan://71698fa1-5dbc-4a7d-a1f0-6f9f098b0829@62.3.54.31:10108?sni=sni.eos-suzhou-4.cmecloud.cn#🔒 TR-TCP-NA 🇯🇵 JP-62.3.54.31:10108
+vless://6d288402-6ef9-4092-9d52-c528690fb693@134.122.100.178:10108?security=tls&sni=pMLMyAZD-6S6.paGeS.DEV&type=ws&host=pmlmyazd-6s6.pages.dev&path=%2FNu8bHy0jlYQqvxns%2FMTIxLjU0LjMwLjE1OQ%3D%3D%3Fed%3D2560&fp=randomized&alpn=http%2F1.1#🔒 VL-WS-TLS 🇬🇧 GB-134.122.100.178:10108

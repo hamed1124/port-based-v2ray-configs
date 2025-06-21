@@ -1,0 +1,1 @@
+vless://6aacf831-bbd6-4c36-95ba-455ecf973ead@195.190.144.157:57947?security=none&type=tcp&host=skyroom.online,+gharar.ir,+igap.net&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-195.190.144.157:57947

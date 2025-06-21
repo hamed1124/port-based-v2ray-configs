@@ -1,0 +1,1 @@
+vless://b8d7526f-9bbe-40ce-a844-e84b82a800d1@85.198.23.105:41606?security=none&type=tcp#🔒 VL-TCP-NONE 🇮🇷 IR-85.198.23.105:41606

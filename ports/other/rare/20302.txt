@@ -1,0 +1,1 @@
+trojan://72988ae1-ce6d-37c3-a5ce-bc8c701f1dc3@111.47.212.170:20302?sni=z302.hongkongnode.top&allowInsecure=1#🔒 TR-TCP-NA 🇨🇳 CN-111.47.212.170:20302

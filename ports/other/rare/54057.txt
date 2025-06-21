@@ -1,1 +1,2 @@
 trojan://pYvkMQEdWp@95.38.102.138:54057?security=tls&sni=berno30.freedaom.top&type=tcp&alpn=h2%2Chttp%2F1.1&allowInsecure=1#🔒 TR-TCP-TLS 🇮🇷 IR-95.38.102.138:54057
+trojan://pYvkMQEdWp@95.38.102.138:54057?security=tls&type=tcp&sni=berno30.freedaom.top#%E6%9C%AA%E7%9F%A585

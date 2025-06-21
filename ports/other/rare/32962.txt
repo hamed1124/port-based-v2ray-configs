@@ -1,2 +1,2 @@
-vless://4088e698-69fd-4d15-98bc-f1fe4c071642@138.2.89.64:32962?security=tls&sni=photosair.ir&type=ws&host=photosair.ir&path=%2Fbing#🔒 VL-WS-TLS 🇸🇬 SG-138.2.89.64:32962
 trojan://ttfang@138.2.89.64:32962?security=tls&sni=ttfang.fange.me&type=ws&path=%2F#🔒 TR-WS-TLS 🇸🇬 SG-138.2.89.64:32962
+vless://4088e698-69fd-4d15-98bc-f1fe4c071642@138.2.89.64:32962?security=tls&sni=photosair.ir&type=ws&host=photosair.ir&path=%2Fbing#🔒 VL-WS-TLS 🇸🇬 SG-138.2.89.64:32962

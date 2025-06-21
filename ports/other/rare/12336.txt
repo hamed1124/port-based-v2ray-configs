@@ -1,2 +1,1 @@
 trojan://Aimer@218.158.109.102:12336?sni=epcci.ambercc.filegear-sg.me&allowInsecure=0#🔒 TR-TCP-NA 🇰🇷 KR-218.158.109.102:12336
-trojan://Aimer@218.158.109.102:12336?sni=epcci.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🇰🇷 KR-218.158.109.102:12336

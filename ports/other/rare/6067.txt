@@ -1,0 +1,1 @@
+vless://f47257a3-ab2e-4662-9e4c-10612d414794@5.144.132.230:6067?security=none&type=grpc&serviceName=2055vless#🔒 VL-GRPC-NONE 🇮🇷 IR-5.144.132.230:6067

@@ -1,0 +1,2 @@
+vless://e3133685-3ecc-4c2e-86cc-2f65bedca783@81.12.92.83:47162?type=tcp&host=Uewuy.divarcdn.com&headerType=http#🔒 VL-TCP-NA 🇮🇷 IR-81.12.92.83:47162
+vless://e3133685-3ecc-4c2e-86cc-2f65bedca783@[2a00:15c8:1061::79]:47162?type=tcp&host=Uewuy.divarcdn.com&headerType=http#🔒 VL-TCP-NA 🇮🇷 IR-[2a00:15c8:1061::79]:47162

@@ -1,2 +1,1 @@
-trojan://Aimer@221.154.119.147:34422?sni=epma.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A567
 trojan://Aimer@221.154.119.147:34422?sni=epma.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🇰🇷 KR-221.154.119.147:34422

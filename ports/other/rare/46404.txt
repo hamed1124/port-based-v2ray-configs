@@ -1,0 +1,1 @@
+vless://78ccc4b7-44ea-4d51-a6cf-3b2ec0aa4c69@185.215.228.234:46404?security=none&type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-185.215.228.234:46404

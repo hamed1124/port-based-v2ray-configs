@@ -1,2 +1,2 @@
-trojan://c1596d35-5f68-4cef-bf5f-ac0d2ab88b2f@v02.gutingting.com:30052?security=tls&sni=v2th01.fuqiangren.com#%F0%9F%87%AD%F0%9F%87%B0HK-5.83.221.31-1450
 vless://4088e698-69fd-4d15-98bc-f1fe4c071642@118.46.29.202:30052?security=tls&sni=photosair.ir&type=ws&host=photosair.ir#🔒 VL-WS-TLS 🇰🇷 KR-118.46.29.202:30052
+trojan://c1596d35-5f68-4cef-bf5f-ac0d2ab88b2f@v02.gutingting.com:30052?security=tls&sni=v2th01.fuqiangren.com#%F0%9F%87%AD%F0%9F%87%B0HK-5.83.221.31-1450

@@ -1,1 +1,1 @@
-vless://65d28773-ea93-4c51-9d4a-699951111d92@37.32.41.151:888?security=none&type=tcp&host=skyroom.online%2Cigap.net%2Cgharar.ir&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-37.32.41.151:888
+vless://65d28773-ea93-4c51-9d4a-699951111d92@37.32.41.151:888?security=none&type=tcp&host=skyroom.online,igap.net,gharar.ir&path=/&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-37.32.41.151:888

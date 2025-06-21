@@ -1,0 +1,1 @@
+vless://74e0f9b9-e7d4-400c-bcc3-cc0fbdf7bc58@79.175.129.213:53769?security=none&type=tcp&host=45.90.28.0&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-79.175.129.213:53769

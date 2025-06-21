@@ -1,2 +1,2 @@
-vless://c1f85ebc-b908-458f-a4e0-4aabb6bd351d@37.187.39.47:42541?security=none&type=tcp&host=JouRNaloFbIgdATA.SpRinGeropEn.coM.&headerType=http#🔒 VL-TCP-NONE 🇫🇷 FR-37.187.39.47:42541
 trojan://64de1de7-e3bb-3dc4-ab04-d1e601e18ac5@hn.xiaohouzi.club:42541?security=tls&sni=hn.xiaohouzi.club#%F0%9F%87%BA%F0%9F%87%B8US-13.248.169.48-1656
+vless://c1f85ebc-b908-458f-a4e0-4aabb6bd351d@37.187.39.47:42541?security=none&type=tcp&host=JouRNaloFbIgdATA.SpRinGeropEn.coM.&headerType=http#🔒 VL-TCP-NONE 🇫🇷 FR-37.187.39.47:42541

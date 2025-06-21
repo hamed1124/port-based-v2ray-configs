@@ -1,2 +1,4 @@
-vless://d253ddff-6f55-4edb-b142-948e81c83687@134.209.139.241:42542?security=none&type=raw&host=JouRNaloFbIgdATA.SpRinGeropEn.coM.&headerType=http#🔒 VL-RAW-NONE 🇳🇱 NL-134.209.139.241:42542
+vless://d253ddff-6f55-4edb-b142-948e81c83687@167.99.19.14:42542?security=none&type=tcp&host=JouRNaloFbIgdATA.SpRinGeropEn.coM.&headerType=http#🔒 VL-TCP-NONE 🇳🇱 NL-167.99.19.14:42542
 vless://d253ddff-6f55-4edb-b142-948e81c83687@138.68.152.206:42542?type=tcp&host=JouRNaloFbIgdATA.SpRinGeropEn.coM.&headerType=http#🔒 VL-TCP-NA 🇬🇧 GB-138.68.152.206:42542
+vless://d253ddff-6f55-4edb-b142-948e81c83687@134.209.139.241:42542?security=none&type=raw&host=JouRNaloFbIgdATA.SpRinGeropEn.coM.&headerType=http#🔒 VL-RAW-NONE 🇳🇱 NL-134.209.139.241:42542
+vless://d253ddff-6f55-4edb-b142-948e81c83687@209.38.53.148:42542?security=none&type=tcp&host=JouRNaloFbIgdATA.SpRinGeropEn.coM.&headerType=http#🔒 VL-TCP-NONE 🇳🇱 NL-209.38.53.148:42542

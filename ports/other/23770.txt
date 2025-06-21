@@ -1,5 +1,7 @@
-trojan://VdWBGFmg@36.151.251.62:23770?allowInsecure=1&sni=TG.WangCai2#%F0%9F%87%A8%F0%9F%87%B3%20%E6%B1%9F%E8%8B%8F%E7%9C%81%20%E7%A7%BB%E5%8A%A8
 trojan://VdWBGFmg@36.151.251.62:23770?sni=TG.WangCai2&allowInsecure=1#🔒 TR-TCP-NA 🇨🇳 CN-36.151.251.62:23770
+trojan://VdWBGFmg@36.151.251.62:23770?allowInsecure=0&sni=36.151.251.62#_%E4%B8%AD%E5%9B%BD
+trojan://xHiFGGTy@36.151.251.62:23770?allowInsecure=0&sni=TG.WangCai2#_%E4%B8%AD%E5%9B%BD
+trojan://VdWBGFmg@36.151.251.62:23770?allowInsecure=0&sni=TG.WangCai2#%F0%9F%87%A8%F0%9F%87%B3%20%E6%B1%9F%E8%8B%8F%E7%9C%81%20%E7%A7%BB%E5%8A%A8
 trojan://VdWBGFmg@36.151.251.62:23770?allowInsecure=0&sni=TG.WangCai2#%E6%97%A5%E6%9C%9F%EF%BC%9A06-21
-trojan://VdWBGFmg@36.151.251.62:23770?allowInsecure=1&sni=TG.WangCai2#14%7CCN_speednode_0024
+trojan://VdWBGFmg@36.151.251.62:23770?allowInsecure=0&sni=TG.WangCai2#_%E4%B8%AD%E5%9B%BD
 trojan://VdWBGFmg@36.151.251.62:23770?security=tls&sni=TG.WangCai2#%F0%9F%87%A8%F0%9F%87%B3CN-36.151.251.62-0205

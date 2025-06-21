@@ -1,2 +1,2 @@
-trojan://f75b2c90-34da-4b87-90ce-5c7874573f12@157.254.38.210:20013?security=tls&sni=xysni.eos-shanghai-2.cmecloud.cn&type=tcp&fp=chrome#🔒 TR-TCP-TLS 🇺🇸 US-157.254.38.210:20013
 ss://YWVzLTI1Ni1nY206TzU1STVTMzAzNk1JVUo4RQ==@185.192.124.41:20013#🔒 SS-TCP-NA 🇧🇷 BR-185.192.124.41:20013
+trojan://f75b2c90-34da-4b87-90ce-5c7874573f12@157.254.38.210:20013?security=tls&sni=xysni.eos-shanghai-2.cmecloud.cn&type=tcp&fp=chrome#🔒 TR-TCP-TLS 🇺🇸 US-157.254.38.210:20013

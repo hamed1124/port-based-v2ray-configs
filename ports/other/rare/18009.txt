@@ -1,3 +1,2 @@
-vless://1eae562e-72cd-4752-a864-7969633e6e14@193.24.103.153:18009?security=none&type=tcp&host=soft98.ir&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-193.24.103.153:18009
-vless://1eae562e-72cd-4752-a864-7969633e6e14@193.24.103.154:18009?security=none&type=tcp&host=soft98.ir&path=/&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-193.24.103.154:18009
 vless://1eae562e-72cd-4752-a864-7969633e6e14@193.24.103.153:18009?security=none&type=tcp&host=soft98.ir&path=/&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-193.24.103.153:18009
+vless://1eae562e-72cd-4752-a864-7969633e6e14@193.24.103.154:18009?security=none&type=tcp&host=soft98.ir&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-193.24.103.154:18009

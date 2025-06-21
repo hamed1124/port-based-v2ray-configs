@@ -1,0 +1,1 @@
+vless://c152c2c9-86e4-4d65-b248-380c9442e3b3@193.151.149.105:28995?security=none&type=tcp&host=divarcdn.com&path=%2F&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-193.151.149.105:28995

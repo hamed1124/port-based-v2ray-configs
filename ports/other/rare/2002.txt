@@ -1,1 +1,2 @@
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@45.154.98.100:2002?sni=hl.ylka.dpdns.org&type=ws&host=hl.ylka.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🇳🇱 NL-45.154.98.100:2002
+vmess://eyJhZGQiOiAiMTA5LjEyMi4yNTMuMTEzIiwgImFpZCI6ICIwIiwgImhvc3QiOiAicDMwYWZ6YXIuY29tIiwgImlkIjogImJkNmYzNWMxLTdkYTMtNDliOC1iMWZlLWViODJlMTFkNGU3MCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiLyIsICJwb3J0IjogMjAwMiwgInBzIjogIlx1ZDgzZFx1ZGQxMiBWTS1UQ1AtTk9ORSBcdWQ4M2NcdWRkZWVcdWQ4M2NcdWRkZjcgSVItMTA5LjEyMi4yNTMuMTEzOjIwMDIiLCAic2N5IjogImF1dG8iLCAidGxzIjogIm5vbmUiLCAidHlwZSI6ICJodHRwIiwgInYiOiAiMiJ9

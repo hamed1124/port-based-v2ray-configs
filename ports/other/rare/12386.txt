@@ -1,2 +1,1 @@
 trojan://Aimer@222.108.106.148:12386?sni=epme.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🇰🇷 KR-222.108.106.148:12386
-trojan://Aimer@222.108.106.148:12386?sni=epme.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A546

@@ -1,0 +1,5 @@
+trojan://bacacab-aacb-cbaa-bacd-cbbaacccabba@127.0.0.1:8080?security=tls&type=tcp#👨🏻‍💻 DEVELOPED-BY SOROUSH-MIRZAEI 📌 FOLLOW-CONTACT SYDSRSMRZ
+trojan://2ad5f69a-0d8f-4e33-af04-6b82d0acc672@62.220.127.60:8080?security=tls&sni=node5.servernode.store&type=tcp#🔒 TR-TCP-TLS 🇮🇷 IR-62.220.127.60:8080
+trojan://FcnFFxR3'Q4S@172.67.175.69:8080?security=tls&sni=c6dtqfgoyuvajucfmufcxzwii-f-d841.dalali1441.workers.dev&type=ws&host=c6dtqfgoyuvajucfmufcxzwii-f-d841.dalali1441.workers.dev&path=%2Ftr5YBbZafhO3feoRmy%3Fed%3D2560&allowInsecure=1#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.175.69:8080
+trojan://O3666Ckn6N@104.16.252.135:8080?security=none&type=ws&host=darkevil.news&path=/#🔒 TR-WS-NONE 🏴‍☠️ NA-104.16.252.135:8080
+trojan://FcnFFxR3'Q4S@104.21.31.75:8080?security=tls&sni=c6dtqfgoyuvajucfmufcxzwii-f-d841.dalali1441.workers.dev&type=ws&host=c6dtqfgoyuvajucfmufcxzwii-f-d841.dalali1441.workers.dev&path=%2Ftr5YBbZafhO3feoRmy%3Fed%3D2560&allowInsecure=1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.31.75:8080

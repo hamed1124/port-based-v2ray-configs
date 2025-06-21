@@ -1,2 +1,2 @@
-vless://b1867b10-e968-44d1-9182-a674ef81ecb7@142.179.77.40:56565?security=tls&flow=xtls-rprx-vision-udp443&sni=www.samsung.com&fp=chrome&allowInsecure=1#🔒 VL-TCP-TLS 🇨🇦 CA-142.179.77.40:56565
 vless://cfa392db-7445-4aa6-964f-2a3e20103936@142.179.77.40:56565?security=reality&flow=xtls-rprx-vision&sni=www.samsung.com&type=tcp&fp=ios&pbk=59iI-5g0yQ3r6ZaoBOQSWOCnMw6_t_q0oS4gXngXhW0&sid=2e3b0488#🔒 VL-TCP-RLT 🇨🇦 CA-142.179.77.40:56565
+vless://b1867b10-e968-44d1-9182-a674ef81ecb7@142.179.77.40:56565?security=tls&flow=xtls-rprx-vision-udp443&sni=www.samsung.com&fp=chrome&allowInsecure=1#🔒 VL-TCP-TLS 🇨🇦 CA-142.179.77.40:56565

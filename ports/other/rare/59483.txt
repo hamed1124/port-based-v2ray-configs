@@ -1,2 +1,3 @@
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@128.140.124.194:59483?security=none&type=grpc#🔒 VL-GRPC-NONE 🇩🇪 DE-128.140.124.194:59483
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@206.189.211.169:59483?security=none&type=grpc#🔒 VL-GRPC-NONE 🇺🇸 US-206.189.211.169:59483
+vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@192.241.174.146:59483?security=none&type=grpc#🔒 VL-GRPC-NONE 🇺🇸 US-192.241.174.146:59483

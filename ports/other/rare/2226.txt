@@ -1,3 +1,3 @@
+vless://c98cf3bc-9f1a-41ae-a923-255ca07cb3aa@167.235.28.81:2226?type=grpc&serviceName=2226vless#🔒 VL-GRPC-NA 🇩🇪 DE-167.235.28.81:2226
 vless://c98cf3bc-9f1a-41ae-a923-255ca07cb3aa@167.235.28.81:2226?type=grpc&serviceName=2226vless#%F0%9F%87%B3%F0%9F%87%B11%20%7C%20%201.1MB/s%7C59%25%7CYoutube%7COpe...
 vless://0fdc2aac-e3bd-48c2-b2d5-32c52faea9e0@85.133.215.24:2226?security=none&type=grpc&serviceName=2226vless#🔒 VL-GRPC-NONE 🇮🇷 IR-85.133.215.24:2226
-vless://c98cf3bc-9f1a-41ae-a923-255ca07cb3aa@167.235.28.81:2226?type=grpc&serviceName=2226vless#🔒 VL-GRPC-NA 🇩🇪 DE-167.235.28.81:2226

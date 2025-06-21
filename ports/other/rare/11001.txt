@@ -1,1 +1,2 @@
 vless://85fa3eed-6d74-421b-bcb9-dabd7418fcb7@37.202.239.227:11001?security=none&type=tcp&host=speed.cloudflare.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-37.202.239.227:11001
+vless://85fa3eed-6d74-421b-bcb9-dabd7418fcb7@151.234.162.147:11001?security=none&type=tcp&host=speed.cloudflare.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-151.234.162.147:11001

@@ -1,2 +1,2 @@
-trojan://6b7c1278-ff9d-11ee-84ca-f23c913c8d2b@196f08f7-sy9ls0-szpnze-1pr35.cm5.cnkuaishou.com:27233?security=tls&sni=196f08f7-sy9ls0-szpnze-1pr35.cm5.cnkuaishou.com#%F0%9F%87%A8%F0%9F%87%B3CN-183.240.180.16-0217
 trojan://d4018e28-e328-11ed-98a7-f23c913c8d2b@627130f3-sy41s0-szgp42-1g8k0.cm5.cnkuaishou.com:27233?security=tls&sni=627130f3-sy41s0-szgp42-1g8k0.cm5.cnkuaishou.com#%F0%9F%87%A8%F0%9F%87%B3CN-183.240.180.16-1952
+trojan://6b7c1278-ff9d-11ee-84ca-f23c913c8d2b@196f08f7-sy9ls0-szpnze-1pr35.cm5.cnkuaishou.com:27233?security=tls&sni=196f08f7-sy9ls0-szpnze-1pr35.cm5.cnkuaishou.com#%F0%9F%87%A8%F0%9F%87%B3CN-183.240.180.16-0217

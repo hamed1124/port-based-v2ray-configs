@@ -1,2 +1,1 @@
-vless://f28e3e08-a7b3-4eaa-b336-517c46a77e12@5.202.8.148:50687?security=none&type=tcp#🔒 VL-TCP-NONE 🇮🇷 IR-5.202.8.148:50687
 vless://f28e3e08-a7b3-4eaa-b336-517c46a77e12@5.202.8.148:50687?type=tcp#🔒 VL-TCP-NA 🇮🇷 IR-5.202.8.148:50687

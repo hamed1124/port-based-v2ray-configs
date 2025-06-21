@@ -1,7 +1,5 @@
-trojan://278d70a0-ac4b-41fd-a66a-8bd84cdd852c@wb.kaiqsz.com:28713?allowInsecure=1&sni=mmbiz1.redapricotcloud.com#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC3%7C%40ripaojiedian
-trojan://278d70a0-ac4b-41fd-a66a-8bd84cdd852c@[2409:8754:5630:210:0:2:0:162]:28713?sni=mmbiz1.redapricotcloud.com&allowInsecure=1#🔒 TR-TCP-NA 🇨🇳 CN-[2409:8754:5630:210:0:2:0:162]:28713
-trojan://278d70a0-ac4b-41fd-a66a-8bd84cdd852c@wb.kaiqsz.com:28713?allowInsecure=1&sni=mmbiz1.redapricotcloud.com#%F0%9F%87%A8%F0%9F%87%B3%20%E5%B9%BF%E4%B8%9C%E7%9C%81%E6%B9%9B%E6%B1%9F%E5%B8%82%20%E7%A7%BB%E5%8A%A8
 trojan://278d70a0-ac4b-41fd-a66a-8bd84cdd852c@wb.kaiqsz.com:28713?allowInsecure=1&sni=mmbiz1.redapricotcloud.com#%E6%97%A5%E6%9C%AC3%7C%40ripaojiedian
-trojan://278d70a0-ac4b-41fd-a66a-8bd84cdd852c@120.198.71.173:28713?sni=mmbiz1.redapricotcloud.com&allowInsecure=1#🔒 TR-TCP-NA 🇨🇳 CN-120.198.71.173:28713
-trojan://278d70a0-ac4b-41fd-a66a-8bd84cdd852c@wb.kaiqsz.com:28713?allowInsecure=1&sni=mmbiz1.redapricotcloud.com#%F0%9F%87%AF%F0%9F%87%B5%2012%2C13%7C%E6%97%A5%E6%9C%AC3%7C%40ripaojiedian
+trojan://278d70a0-ac4b-41fd-a66a-8bd84cdd852c@[2409:8754:5630:210:0:2:0:162]:28713?sni=mmbiz1.redapricotcloud.com&allowInsecure=1#🔒 TR-TCP-NA 🇨🇳 CN-[2409:8754:5630:210:0:2:0:162]:28713
 trojan://278d70a0-ac4b-41fd-a66a-8bd84cdd852c@wb.kaiqsz.com:28713?security=tls&sni=mmbiz1.redapricotcloud.com#%F0%9F%87%A8%F0%9F%87%B3CN-120.198.71.173-0734
+trojan://278d70a0-ac4b-41fd-a66a-8bd84cdd852c@120.198.71.173:28713?sni=mmbiz1.redapricotcloud.com&allowInsecure=1#🔒 TR-TCP-NA 🇨🇳 CN-120.198.71.173:28713
+trojan://278d70a0-ac4b-41fd-a66a-8bd84cdd852c@wb.kaiqsz.com:28713?allowInsecure=1&sni=mmbiz1.redapricotcloud.com#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC3%7C%40ripaojiedian

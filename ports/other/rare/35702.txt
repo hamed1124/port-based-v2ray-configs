@@ -1,2 +1,2 @@
-trojan://63db084a-e2ce-46db-9dd6-d4ed2c3d2663@76.223.54.146:35702?sni=sg01.freeflyingcloud.xyz#🔒 TR-TCP-NA 🇺🇸 US-76.223.54.146:35702
 trojan://63db084a-e2ce-46db-9dd6-d4ed2c3d2663@13.248.169.48:35702?sni=sg01.freeflyingcloud.xyz#🔒 TR-TCP-NA 🇺🇸 US-13.248.169.48:35702
+trojan://63db084a-e2ce-46db-9dd6-d4ed2c3d2663@76.223.54.146:35702?sni=sg01.freeflyingcloud.xyz#🔒 TR-TCP-NA 🇺🇸 US-76.223.54.146:35702

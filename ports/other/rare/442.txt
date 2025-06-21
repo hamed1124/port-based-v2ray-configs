@@ -1,2 +1,2 @@
-vless://d75648e7-ebfa-4ef0-9436-82e9d4fb0e4f@188.34.157.214:442?security=none&type=grpc#🔒 VL-GRPC-NONE 🇩🇪 DE-188.34.157.214:442
 vless://fbf0444d-3941-45ca-a1b2-54f58fc8c43c@65.109.176.100:442?security=reality&sni=www.cdn77.com&type=tcp&fp=chrome&pbk=3Ub2-GJ9ldN9dA6hW_e0TG8bIRxVkYu8ewdRjNnAIms&sid=74#🔒 VL-TCP-RLT 🇫🇮 FI-65.109.176.100:442
+vless://d75648e7-ebfa-4ef0-9436-82e9d4fb0e4f@188.34.157.214:442?security=none&type=grpc#🔒 VL-GRPC-NONE 🇩🇪 DE-188.34.157.214:442

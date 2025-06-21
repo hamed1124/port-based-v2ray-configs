@@ -1,1 +1,1 @@
-vless://c7658a66-518d-4187-9f46-99b3c1a7a90c@107.151.220.253:56363?security=none&type=tcp&host=canva.com&headerType=http#🔒 VL-TCP-NONE 🇺🇸 US-107.151.220.253:56363
+vless://c7658a66-518d-4187-9f46-99b3c1a7a90c@107.151.220.253:56363?type=tcp&host=canva.com&headerType=http#🔒 VL-TCP-NA 🇺🇸 US-107.151.220.253:56363

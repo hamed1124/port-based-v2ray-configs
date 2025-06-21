@@ -1,1 +1,1 @@
-vless://cbc9daf3-e5ce-4fae-883e-48959f38f159@85.133.204.211:4432?security=reality&sni=refersion.com&type=tcp&fp=firefox&pbk=y6JSkggQ__RA_nmCJpX1_ddSQC6vzDUPaN7KyvjVuic#🔒 VL-TCP-RLT 🇮🇷 IR-85.133.204.211:4432
+vless://43b7ef80-c7b0-475b-8959-2aa38d7136ba@37.32.41.237:4432?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-37.32.41.237:4432

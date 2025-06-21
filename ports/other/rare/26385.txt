@@ -1,1 +1,2 @@
-trojan://ttfang@8.222.243.73:26385?sni=ttfang.fange.me&allowInsecure=0#🔒 TR-TCP-NA 🇸🇬 SG-8.222.243.73:26385
+trojan://ttfang@8.222.243.73:26385?sni=ttfang.fange.me#%E6%9C%AA%E7%9F%A5155
+trojan://ttfang@8.222.243.73:26385?sni=ttfang.fange.me#🔒 TR-TCP-NA 🇸🇬 SG-8.222.243.73:26385

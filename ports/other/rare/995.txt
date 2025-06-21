@@ -1,4 +1,4 @@
-trojan://Aimer@192.3.86.244:995?sni=epmd.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🇺🇸 US-192.3.86.244:995
-vless://13ce135b-70b6-4e0b-b89c-f15cf15d066d@37.32.22.63:995?security=none&type=ws&path=%2F#🔒 VL-WS-NONE 🇮🇷 IR-37.32.22.63:995
 vless://13ce135b-70b6-4e0b-b89c-f15cf15d066d@185.97.117.210:995?security=none&type=ws&path=%2F#🔒 VL-WS-NONE 🇮🇷 IR-185.97.117.210:995
+vless://13ce135b-70b6-4e0b-b89c-f15cf15d066d@37.32.22.63:995?security=none&type=ws&path=%2F#🔒 VL-WS-NONE 🇮🇷 IR-37.32.22.63:995
+trojan://Aimer@192.3.86.244:995?sni=epmd.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🇺🇸 US-192.3.86.244:995
 ss://YWVzLTI1Ni1nY206TURBNE1qRmxNakF6T1RkaE16VmlPV0kxTVRGaE5HWTNZV1JqWW1WbA==@38.54.27.37:995#🔒 SS-TCP-NA 🇧🇬 BG-38.54.27.37:995

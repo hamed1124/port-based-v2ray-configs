@@ -1,0 +1,1 @@
+vless://d6ffed8f-4684-4984-b4b7-3c9bbdb997f7@79.127.70.78:3228?security=none&type=tcp&host=eN.TwiTtER.cOM.%3A8880&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-79.127.70.78:3228

@@ -1,1 +1,2 @@
 vless://f8729660-82eb-47e0-9f45-2984113316ca@185.204.171.31:1010?security=reality&sni=canva.com&type=tcp&fp=chrome&pbk=a0_d-hjj7ByzOdLnniZTHPcRIEnT9DtI1icnlrekuDM&sid=8a1fb5d015ab108c#🔒 VL-TCP-RLT 🇩🇪 DE-185.204.171.31:1010
+vless://31529a86-a4e9-4b41-83d6-bd92b2af7569@37.32.41.184:1010?type=tcp#🔒 VL-TCP-NA 🇮🇷 IR-37.32.41.184:1010

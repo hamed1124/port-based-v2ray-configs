@@ -1,0 +1,1 @@
+vless://78c27184-27e9-4d0f-963f-c22c2a80e404@188.212.97.116:41449?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-188.212.97.116:41449

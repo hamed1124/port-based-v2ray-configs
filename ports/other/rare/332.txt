@@ -1,0 +1,1 @@
+vless://41b85a5a-82aa-4e21-88a2-4b3377e9cf57@37.32.41.208:332?security=none&type=tcp&host=parsabr.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-37.32.41.208:332

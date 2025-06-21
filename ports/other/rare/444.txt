@@ -1,4 +1,4 @@
-vless://6337837a-2b47-4e0d-a695-75c5a4a8ad51@2.59.183.233:444?security=tls&sni=hax-eu1.lzjnb.shop&type=ws&host=hax-eu1.lzjnb.shop&path=%2Ft.me%2Flzjjjjjjjjjjj#🔒 VL-WS-TLS 🇳🇱 NL-2.59.183.233:444
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWN2ptc0E2UFFzTG4=@146.185.198.44:444#%F0%9F%87%B7%F0%9F%87%BARU-146.185.198.44-8747
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzbGF0cGlmT29u@185.221.153.52:444#%F0%9F%87%B7%F0%9F%87%BARU-185.221.153.52-8446
 trojan://Aimer@92.63.192.110:444?security=tls&sni=ngepz.ambercc.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🇷🇺 RU-92.63.192.110:444
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWN2ptc0E2UFFzTG4=@146.185.198.44:444#%F0%9F%87%B7%F0%9F%87%BARU-146.185.198.44-8747
+vless://6337837a-2b47-4e0d-a695-75c5a4a8ad51@2.59.183.233:444?security=tls&sni=hax-eu1.lzjnb.shop&type=ws&host=hax-eu1.lzjnb.shop&path=%2Ft.me%2Flzjjjjjjjjjjj#🔒 VL-WS-TLS 🇳🇱 NL-2.59.183.233:444

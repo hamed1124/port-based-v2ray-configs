@@ -1,1 +1,2 @@
-vless://b92835af-355d-4923-a651-2f489ae30d15@194.87.84.113:7005?security=reality&sni=refersion.com&type=tcp&fp=chrome&pbk=uvD80HhI4bd7zO_C-f8gtm7AzRhGdjiWDU2TI-S-hEk#🔒 VL-TCP-RLT 🇷🇺 RU-194.87.84.113:7005
+vless://cb31e3e6-3618-4b5f-905c-d64161ddeb12@194.87.84.113:7005?security=reality&sni=refersion.com&type=tcp&fp=chrome&pbk=uvD80HhI4bd7zO_C-f8gtm7AzRhGdjiWDU2TI-S-hEk#🔒 VL-TCP-RLT 🇷🇺 RU-194.87.84.113:7005
+vless://cb31e3e6-3618-4b5f-905c-d64161ddeb12@167.99.40.16:7005?security=reality&sni=refersion.com&type=tcp&fp=chrome&pbk=uvD80HhI4bd7zO_C-f8gtm7AzRhGdjiWDU2TI-S-hEk#🔒 VL-TCP-RLT 🇳🇱 NL-167.99.40.16:7005

@@ -1,0 +1,1 @@
+vless://21e0c990-ef9e-46b6-98e0-693a52115491@2.144.4.48:1042?type=tcp&host=rubika.ir%2C%20igap.net%2C%20splus.ir%2C%20skyroom.online&headerType=http#🔒 VL-TCP-NA 🇮🇷 IR-2.144.4.48:1042

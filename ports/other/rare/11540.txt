@@ -1,2 +1,1 @@
-vless://b639219b-2414-4a7c-bf43-6bee61b2080b@193.151.136.8:11540?type=ws&path=%2F#🔒 VL-WS-NA 🇮🇷 IR-193.151.136.8:11540
 vless://b639219b-2414-4a7c-bf43-6bee61b2080b@193.151.136.8:11540?security=none&type=ws&path=%2F#🔒 VL-WS-NONE 🇮🇷 IR-193.151.136.8:11540

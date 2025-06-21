@@ -1,1 +1,2 @@
 trojan://eLpjAXg6pM@65.109.219.89:5060?security=tls&sni=sv1.ahsg.top&type=tcp#🔒 TR-TCP-TLS 🇫🇮 FI-65.109.219.89:5060
+vless://5d8b8f8c-2b06-49cd-b4ea-08dee087a967@91.240.95.48:5060?type=tcp&alpn=null#🔒 VL-TCP-NA 🇮🇷 IR-91.240.95.48:5060

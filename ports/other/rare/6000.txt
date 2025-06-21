@@ -1,2 +1,3 @@
 trojan://3b9f06bc-83ae-4df8-98ca-0cea043b3369@62.220.127.47:6000?security=tls&sni=node1.servernode.store&type=tcp#🔒 TR-TCP-TLS 🇮🇷 IR-62.220.127.47:6000
 vless://beec0c14-7d74-4d03-b79f-f5e880726c28@185.90.61.32:6000?security=reality&sni=www.unpkg.com&type=tcp&fp=firefox&pbk=ioE61VC3V30U7IdRmQ3bjhOq2ij9tPhVIgAD4JZ4YRY&sid=0b5922be64fc5713#🔒 VL-TCP-RLT 🇳🇴 NO-185.90.61.32:6000
+vless://c20c208d-482a-48fb-9dd8-b7f9f5fd807d@185.49.105.233:6000?security=none&type=tcp&host=fast.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-185.49.105.233:6000

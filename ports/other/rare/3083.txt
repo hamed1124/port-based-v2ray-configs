@@ -1,0 +1,1 @@
+vless://4e2f5d38-c824-49cf-8a13-e336a4f62e2e@185.79.159.39:3083?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-185.79.159.39:3083

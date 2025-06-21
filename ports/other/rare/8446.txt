@@ -1,0 +1,1 @@
+vless://c0ac6d0a-dba7-4a19-97d3-ebae0ddefcfa@2.144.7.14:8446?security=none&type=tcp#🔒 VL-TCP-NONE 🇮🇷 IR-2.144.7.14:8446

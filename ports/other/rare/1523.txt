@@ -1,2 +1,2 @@
-vless://6484f053-9cca-4f0c-9995-1aaf257f6294@37.27.250.128:1523?security=none&type=tcp&host=testspeed-foreign.tci.ir&headerType=http#🔒 VL-TCP-NONE 🇫🇮 FI-37.27.250.128:1523
 vless://6484f053-9cca-4f0c-9995-1aaf257f6294@37.27.211.10:1523?security=none&type=tcp&host=testspeed-foreign.tci.ir&headerType=http#🔒 VL-TCP-NONE 🇫🇮 FI-37.27.211.10:1523
+vless://6484f053-9cca-4f0c-9995-1aaf257f6294@37.27.250.128:1523?security=none&type=tcp&host=testspeed-foreign.tci.ir&headerType=http#🔒 VL-TCP-NONE 🇫🇮 FI-37.27.250.128:1523
